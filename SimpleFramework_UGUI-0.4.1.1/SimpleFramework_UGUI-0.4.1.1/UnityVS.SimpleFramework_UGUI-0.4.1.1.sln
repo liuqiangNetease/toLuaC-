@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityVS.SimpleFramework_UGUI-0.4.1.1.CSharp", "UnityVS.SimpleFramework_UGUI-0.4.1.1.CSharp.csproj", "{F613E056-A5E9-36EE-1D93-B5909C5014B5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityVS.SimpleFramework_UGUI-0.4.1.1.CSharp.Editor", "UnityVS.SimpleFramework_UGUI-0.4.1.1.CSharp.Editor.csproj", "{91AF777C-0F55-81AB-38EC-E2B1BCE81F46}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F613E056-A5E9-36EE-1D93-B5909C5014B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F613E056-A5E9-36EE-1D93-B5909C5014B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F613E056-A5E9-36EE-1D93-B5909C5014B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F613E056-A5E9-36EE-1D93-B5909C5014B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91AF777C-0F55-81AB-38EC-E2B1BCE81F46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91AF777C-0F55-81AB-38EC-E2B1BCE81F46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91AF777C-0F55-81AB-38EC-E2B1BCE81F46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91AF777C-0F55-81AB-38EC-E2B1BCE81F46}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

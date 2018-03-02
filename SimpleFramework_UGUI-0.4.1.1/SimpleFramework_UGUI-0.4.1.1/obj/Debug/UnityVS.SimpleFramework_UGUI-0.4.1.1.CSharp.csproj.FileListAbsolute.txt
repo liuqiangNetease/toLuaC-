@@ -1,0 +1,14 @@
+D:\Lua\SimpleFramework_UGUI-0.4.1.1\SimpleFramework_UGUI-0.4.1.1\Temp\UnityVS_bin\Debug\Assembly-CSharp.dll
+D:\Lua\SimpleFramework_UGUI-0.4.1.1\SimpleFramework_UGUI-0.4.1.1\Temp\UnityVS_bin\Debug\Assembly-CSharp.pdb
+D:\Lua\SimpleFramework_UGUI-0.4.1.1\SimpleFramework_UGUI-0.4.1.1\Temp\UnityVS_bin\Debug\Debuger.dll
+D:\Lua\SimpleFramework_UGUI-0.4.1.1\SimpleFramework_UGUI-0.4.1.1\Temp\UnityVS_bin\Debug\UnityEditor.dll
+D:\Lua\SimpleFramework_UGUI-0.4.1.1\SimpleFramework_UGUI-0.4.1.1\Temp\UnityVS_bin\Debug\UnityEditor.iOS.Extensions.Xcode.dll
+D:\Lua\SimpleFramework_UGUI-0.4.1.1\SimpleFramework_UGUI-0.4.1.1\Temp\UnityVS_bin\Debug\UnityEngine.dll
+D:\Lua\SimpleFramework_UGUI-0.4.1.1\SimpleFramework_UGUI-0.4.1.1\Temp\UnityVS_bin\Debug\UnityEngine.UI.dll
+D:\Lua\SimpleFramework_UGUI-0.4.1.1\SimpleFramework_UGUI-0.4.1.1\Temp\UnityVS_bin\Debug\UnityEngine.xml
+D:\Lua\SimpleFramework_UGUI-0.4.1.1\SimpleFramework_UGUI-0.4.1.1\Temp\UnityVS_bin\Debug\UnityEditor.xml
+D:\Lua\SimpleFramework_UGUI-0.4.1.1\SimpleFramework_UGUI-0.4.1.1\Temp\UnityVS_bin\Debug\UnityEngine.UI.xml
+D:\Lua\SimpleFramework_UGUI-0.4.1.1\SimpleFramework_UGUI-0.4.1.1\Temp\UnityVS_bin\Debug\UnityEditor.iOS.Extensions.Xcode.xml
+D:\Lua\SimpleFramework_UGUI-0.4.1.1\SimpleFramework_UGUI-0.4.1.1\obj\Debug\UnityVS.SimpleFramework_UGUI-0.4.1.1.CSharp.csprojResolveAssemblyReference.cache
+D:\Lua\SimpleFramework_UGUI-0.4.1.1\SimpleFramework_UGUI-0.4.1.1\obj\Debug\Assembly-CSharp.dll
+D:\Lua\SimpleFramework_UGUI-0.4.1.1\SimpleFramework_UGUI-0.4.1.1\obj\Debug\Assembly-CSharp.pdb
